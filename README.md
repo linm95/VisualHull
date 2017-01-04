@@ -1,3 +1,4 @@
+
 # VisualHull
 
 # A program helps tp rebuild the 3d information of an object
@@ -12,3 +13,5 @@ The source photos are as followed:
 ![image](https://github.com/linm13/VisualHull/blob/source/WD2_5_00020.png)
 ![image](https://github.com/linm13/VisualHull/blob/source/WD2_9_00020.png)
 ![image](https://github.com/linm13/VisualHull/blob/source/WD2_13_00020.png)
+
+And the result of my 3d-infor rebuilding are as followed: 
