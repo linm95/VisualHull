@@ -15,3 +15,8 @@ The source photos are as followed:
 ![image](https://github.com/linm13/VisualHull/blob/source/WD2_13_00020.png)
 
 And the result of my 3d-infor rebuilding are as followed: 
+![image](https://github.com/linm13/VisualHull/blob/result/3d1.JPG)
+![image](https://github.com/linm13/VisualHull/blob/result/3d2.JPG)
+![image](https://github.com/linm13/VisualHull/blob/result/3d3.JPG)
+
+The raw file is in the result branch.
